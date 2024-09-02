@@ -18,7 +18,7 @@ public class FileManager {
     public void writeFile (String filePath, String content) throws IOException{
         // Запис тексту у файл
         Path path = Path.of(filePath);
-        Files.write(path, content.getBytes(StandardCharsets.UTF_8));
+        Files.writeString(path, content);
     }
 
     // Метод для створення нового шляху з суфіксом
