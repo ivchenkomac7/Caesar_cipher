@@ -134,3 +134,7 @@ Q.idea/sonarlint/securityhotspotstore/7/0/7029e9ceecaca9eaa5624406a4567f5606ec48
 MANIFEST.MF,f/3/f3a9ba3f2adafc412f073f9aacc1ce1c8b30b2fd
 ?
 src/MANIFEST.MF,e/9/e9756ebae1275ec2b398137b53ae6490d5408bfb
+w
+G.idea/sonarlint/issuestore/f/3/f3a9ba3f2adafc412f073f9aacc1ce1c8b30b2fd,8/6/86a60f3c12ee83471a489e83753ad4d6f24b9ad7
+Å
+Q.idea/sonarlint/securityhotspotstore/f/3/f3a9ba3f2adafc412f073f9aacc1ce1c8b30b2fd,7/d/7dde3105a7c81a8789665b46b1e8a8395a38358b
